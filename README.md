@@ -136,3 +136,7 @@ b. There maybe some ambiguous area where the model is not performing well. For e
 39. You can observe the prediction is much better now.
 40. You can also change the color coding of flood and dry pixel. Right click predicted layer. Click on properties. Click on Symbology tab. On Render type, select "Paletted/Unique values". Click on "Classify" button. Select your desire color and press "OK".
 ![FLoodMapping](https://github.com/amsainju/MachineLearningQGIS/blob/main/images/FloodMapping19.png?raw=true#center)
+
+
+
+Congratulations!! you have completed the machine learning tutorial for classification on satellite imagery in QGIS. 
